@@ -9,10 +9,14 @@ Tudo que você precisa é de uma carteira na metamask, desenvolver um código em
  - **[Remix](https://remix.ethereum.org/)**: Online IDE para desenvolver, dubuggar, testar, e fazer o deploy de smart contracts Ethereum e EVMs compatíveis
  - **[Infura](https://www.infura.io/faucet/linea)**: Serviço que distribui LineaETH gratuitamente para desenvolvedores testarem suas soluções
  - **[HackQuest](https://www.hackquest.io/en/faucets/59141)**: Serviço alternativo que distribui LineaETH gratuitamente para desenvolvedores testarem suas soluções
-  
+
+---
+
 ## 📋 Como Usar
 
 Siga os passos abaixo para criar seus tokens na rede Ethereum e enviá-los para onde quiser:
+
+---
 
 ### 1. Criar metamask
 
@@ -21,6 +25,8 @@ Fique atento para anotar e salvar em vários locais secretos tanto a seed quanto
 Adicione a rede de teste Linea Sepolia
 
 ![Linea Sepolia](src/prints/metamask.png)
+
+---
 
 ### 2. Desenvolver código Solidity
 
@@ -107,12 +113,16 @@ Mais abaixo, confira o contrato faz referência ao contrato do código e faça o
 
 Por fim, aceite a transação que aparecerá na sua carteira metamask.
 
+---
+
 ### 3. Adicionar o Token à sua carteira
 
 Nesta, na aba `Atividades`, será mostrado o histórico das implementações de contrato. Clique nele e em seguida abra-o no explorador de blocos `Sepolia Linea Scan`:
 ![Hash](src/prints/hash.png)
 Copie o endereço do contrato, volte à sua carteira metamask e adicione o endereço copiado para tornar visível o seu token recém criado
 ![Token](src/prints/token.png)
+
+---
 
 ## ✨ Features
 
