@@ -24,7 +24,7 @@ Para rodar scripts em JavaScript fora do navegador, você precisa do Node.js.
 
 Você também precisará de uma carteira Bitcoin para armazenar suas moedas. 
 
-### 3. Desenvolvimento e execução do código JS
+### 3. Desenvolvimento e execução do [código JS](src/createWallet.js)
 
 ```javascript
 import * as bip32 from 'bip32';

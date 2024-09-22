@@ -30,7 +30,7 @@ Adicione a rede de teste Linea Sepolia
 
 ### 2. Desenvolver código Solidity
 
-Acesse a IDE Online Remix. Crie um novo espaço de trabalho e um novo arquivo chamado `token.sol`
+Acesse a IDE Online Remix. Crie um novo espaço de trabalho e um novo arquivo chamado [`token.sol`](src/code/token.sol)
 Neste novo arquivo, desenvolva um código similar a este:
 
 ```sol

@@ -43,7 +43,7 @@ Insira os dados que façam sentido com o Smart Contract que você irá criar.
 
 ## 3. Desenvolver código Solidity
 
-Acesse a IDE Online Remix. Crie um novo arquivo na pasta `contracts`. Neste caso, o arquivo será nomeado como `your-coin.sol`
+Acesse a IDE Online Remix. Crie um novo arquivo na pasta `contracts`. Neste caso, o arquivo será nomeado como [`your-coin.sol`](src/code/your-coin.sol)
 Neste novo arquivo, desenvolva um código similar a este:
 
 ```sol
