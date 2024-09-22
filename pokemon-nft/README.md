@@ -1,4 +1,4 @@
-# 🚀 Criando seu próprio Token na Linea Sepolia
+# 🚀 Criando seu NFTs de Pokemon
 
 Este projeto é um guia prático e acessível de como criar sua própria coleção de NFTs Pokemon em sua blockchain interna através de um smart contract `ERC721`. 
 Usando ferramentas como a carteira Metamask, Remix IDE, Ganache e IPFS, você poderá criar sua coleção de NFTs através de `smart contracts` utilizando suas próprias moedas (sem valor real).
